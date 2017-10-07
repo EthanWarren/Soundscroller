@@ -1,0 +1,12 @@
+startpos:1
+maxpos:100
+spike:10
+bomb:20
+rock:30
+wall:40
+laser:50
+electricbarrier:60
+teleporter:70|1
+powerup:80|2
+lava:90
+monster:100|4|1|zombie.wav

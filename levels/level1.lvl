@@ -1,0 +1,15 @@
+maxpos:150
+startpos:1
+spike:5
+monster:10|4|1|zombie.wav
+bomb:20
+lava:35
+monster:42|4|1|zombie.wav
+bomb:50
+monster:60|4|1|zombie.wav
+teleporter:70|5
+rock:85
+wall:100
+teleporter:120|1
+spike:135
+powerup:145|5
